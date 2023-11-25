@@ -2,6 +2,7 @@
   "dependencies": {
     "next": "^13.1.6",
     "node": "^18.18.2",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "name": "webnew",
@@ -10,7 +11,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev"
+    "dev": "next dev",
+    "start": "next start"
   },
   "author": "",
   "license": "ISC"

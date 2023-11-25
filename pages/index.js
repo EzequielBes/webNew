@@ -1,6 +1,8 @@
 export default function home() {
-    return (
-        <h1>Go Go Go</h1>
-    )
+  return (
+    <h1>Go Go Go</h1>
+  )
 }
+
+
 
